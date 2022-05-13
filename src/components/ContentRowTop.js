@@ -13,7 +13,7 @@ function ContentRowTop() {
         </div>
 
         {/*<!-- Content Row Movies-->*/}
-		< ContentRowMovies />
+		      < ContentRowMovies />
 
         {/*<!-- Content Row Last Movie in Data Base -->*/}
         <div className="row">
